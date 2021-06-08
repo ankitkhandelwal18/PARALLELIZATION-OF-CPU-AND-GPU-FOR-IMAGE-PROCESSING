@@ -11,3 +11,6 @@ project is to compare the performance of parallelized CPUs and a GPU. Python’s
 being used to parallelize multicore CPUs. The benchmark image classification algorithm used
 in this project is Convolutional Neural Network. The dataset used in this project is Plant
 Disease Image Dataset. Keywords – Convolutional Neural Network, parallel computing, speedup
+
+
+Dataset link : https://www.kaggle.com/emmarex/plantdisease
